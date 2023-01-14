@@ -1,0 +1,3 @@
+[submodule "freecodecamp-scientific-computing-with-python"]
+	path = freecodecamp-scientific-computing-with-python
+	url = https://github.com/carlosquadros-br/freecodecamp-scientific-computing-with-python.git
